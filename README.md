@@ -23,11 +23,11 @@ I would love to have a chat if you find any of these subjects fascinating!
 
 ### How to reach me?
 
-[LinkedIn](https://www.linkedin.com/in/jayeshsingh0210/)
+[![X.com](https://img.shields.io/badge/Twitter-black)](https://x.com/Jayesh__S)
 
-[Twitter](https://x.com/Jayesh__S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jayeshsingh0210/)
 
-[Schedule a call](https://calendar.amie.so/s/987cce0e-a5e2-43b0-aa95-8946a6dbe054)
+[![Schedule a call](https://img.shields.io/badge/Schedule_a_call-red)](https://calendar.amie.so/s/987cce0e-a5e2-43b0-aa95-8946a6dbe054)
 
 <!--
 **jayesh-s/jayesh-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
